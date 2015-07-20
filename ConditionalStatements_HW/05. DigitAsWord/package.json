@@ -1,0 +1,10 @@
+{
+  "name": "05.-DigitAsWord",
+  "version": "0.0.0",
+  "description": "05. DigitAsWord",
+  "main": "app.js",
+  "author": {
+    "name": "vanya",
+    "email": ""
+  }
+}

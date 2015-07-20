@@ -1,0 +1,10 @@
+{
+  "name": "OperatorsAndExpressions_Homework",
+  "version": "0.0.0",
+  "description": "OperatorsAndExpressions_Homework",
+  "main": "app.js",
+  "author": {
+    "name": "vanya",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "01.-ExchangeIfGreater",
+  "version": "0.0.0",
+  "description": "01. ExchangeIfGreater",
+  "main": "app.js",
+  "author": {
+    "name": "vanya",
+    "email": ""
+  }
+}

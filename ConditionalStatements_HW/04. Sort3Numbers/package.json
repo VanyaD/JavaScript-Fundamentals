@@ -1,0 +1,10 @@
+{
+  "name": "04.-Sort3Numbers",
+  "version": "0.0.0",
+  "description": "04. Sort3Numbers",
+  "main": "app.js",
+  "author": {
+    "name": "vanya",
+    "email": ""
+  }
+}

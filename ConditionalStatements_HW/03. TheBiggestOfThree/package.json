@@ -1,0 +1,10 @@
+{
+  "name": "03.-TheBiggestOfThree",
+  "version": "0.0.0",
+  "description": "03. TheBiggestOfThree",
+  "main": "app.js",
+  "author": {
+    "name": "vanya",
+    "email": ""
+  }
+}

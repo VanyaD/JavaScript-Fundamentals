@@ -1,0 +1,10 @@
+{
+  "name": "02.-MultiplicationSign",
+  "version": "0.0.0",
+  "description": "02. MultiplicationSign",
+  "main": "app.js",
+  "author": {
+    "name": "vanya",
+    "email": ""
+  }
+}

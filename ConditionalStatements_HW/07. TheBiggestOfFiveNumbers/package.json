@@ -1,0 +1,10 @@
+{
+  "name": "07.-TheBiggestOfFiveNumbers",
+  "version": "0.0.0",
+  "description": "07. TheBiggestOfFiveNumbers",
+  "main": "app.js",
+  "author": {
+    "name": "vanya",
+    "email": ""
+  }
+}

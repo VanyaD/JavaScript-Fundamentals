@@ -1,0 +1,10 @@
+{
+  "name": "08.-NumberAsWords",
+  "version": "0.0.0",
+  "description": "08. NumberAsWords",
+  "main": "app.js",
+  "author": {
+    "name": "vanya",
+    "email": ""
+  }
+}

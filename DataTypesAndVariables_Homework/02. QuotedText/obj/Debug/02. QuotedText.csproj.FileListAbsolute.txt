@@ -1,0 +1,6 @@
+c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\02. QuotedText\bin\_02.QuotedText.dll.config
+c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\02. QuotedText\bin\_02.QuotedText.dll
+c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\02. QuotedText\bin\_02.QuotedText.pdb
+c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\02. QuotedText\obj\Debug\02. QuotedText.csprojResolveAssemblyReference.cache
+c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\02. QuotedText\obj\Debug\_02.QuotedText.dll
+c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\02. QuotedText\obj\Debug\_02.QuotedText.pdb
