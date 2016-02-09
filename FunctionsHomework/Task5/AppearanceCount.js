@@ -15,6 +15,7 @@ function findResult(arr, num) {
             count += 1;
         }
     }
+
     return count;
 }
 
@@ -23,14 +24,12 @@ function printResult(arr, num) {
     console.log('Array: ' + arr);
     console.log('Searched number: ' + num);
     console.log('Count: ' + findResult(arr, num));
-
 }
 
 function testResult(expectedResult, calculatedResult) {
     if (expectedResult === calculatedResult) {
         return console.log('Result from test function: answer is correct' + '\n' + '-----------------------');
-    }
-    else {
+    } else {
         return console.log('Result from test function: incorrect answer' + '\n' + '-----------------------');
     }
 }

@@ -12,7 +12,6 @@ var b = bAsString * 1;
 var c = cAsString * 1;
 
 function findRoots(a, b, c) {
-
     var discriminant = (b * b) - (4 * a * c);
     var root1;
     var root2;
@@ -33,7 +32,6 @@ function findRoots(a, b, c) {
 
         return 'x1 = x2 = ' + root1;
     }
-
 }
 
 console.log('a = 2, b = 5, c = -3 --> ', findRoots(2, 5, -3));

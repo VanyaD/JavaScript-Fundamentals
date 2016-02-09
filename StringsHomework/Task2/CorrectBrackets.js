@@ -32,6 +32,7 @@ function check(string) {
             return console.log('Brackets are correct --> ' + isCorrect);
         }
     }
+
     console.log('Brackets are correct --> ' + isCorrect);
 }
 

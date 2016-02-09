@@ -18,19 +18,17 @@ function findResult(array, key) {
     imax = (array.length) - 1;
 
     while (imax >= imin) {
-
         imid = Math.floor((imax + imin) / 2);
 
         if (key === array[imid]) {
             return console.log('Position: ' + imid + '\n----------------');
-        }
-        else if (key < array[imid]) {
+        } else if (key < array[imid]) {
             imax = imid - 1;
-        }
-        else if (key > array[imid]){
+        } else if (key > array[imid]){
             imin = imid + 1;
         }
     }
+
     return console.log('Key not found');
 }
 

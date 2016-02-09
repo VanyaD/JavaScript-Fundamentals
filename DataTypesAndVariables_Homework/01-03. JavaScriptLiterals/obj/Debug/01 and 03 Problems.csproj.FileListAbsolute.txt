@@ -3,3 +3,9 @@ C:\Users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homew
 C:\Users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\01. JavaScriptLiterals\bin\_01.JavaScriptLiterals.pdb
 C:\Users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\01. JavaScriptLiterals\obj\Debug\_01.JavaScriptLiterals.dll
 C:\Users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\01. JavaScriptLiterals\obj\Debug\_01.JavaScriptLiterals.pdb
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\01-03. JavaScriptLiterals\bin\_01.JavaScriptLiterals.dll.config
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\01-03. JavaScriptLiterals\bin\_01.JavaScriptLiterals.dll
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\01-03. JavaScriptLiterals\bin\_01.JavaScriptLiterals.pdb
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\01-03. JavaScriptLiterals\obj\Debug\01 and 03 Problems.csprojResolveAssemblyReference.cache
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\01-03. JavaScriptLiterals\obj\Debug\_01.JavaScriptLiterals.dll
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\01-03. JavaScriptLiterals\obj\Debug\_01.JavaScriptLiterals.pdb

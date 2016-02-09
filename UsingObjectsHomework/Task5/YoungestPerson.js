@@ -11,6 +11,7 @@ function findYoungestPerson(arrOfPeople) {
             indexOfYoungest = i;
         }
     }
+
     return console.log('The youngest person is: ' + arrOfPeople[indexOfYoungest].fullName());
 }
 
@@ -47,6 +48,7 @@ var people = [
             return this.firstName + ' ' + this.lastName;
         }
     }];
+
 console.log(people);
 console.log('------------------------------------------------------------');
 findYoungestPerson(people);

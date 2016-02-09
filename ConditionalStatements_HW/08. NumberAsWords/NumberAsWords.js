@@ -2,7 +2,6 @@
 //Write a script that converts a number in the range [0…999] to words, corresponding to its English pronunciation.
 
 function findResult(number) {
-    
     var part1;
     var part2;
     var part3;
@@ -208,7 +207,6 @@ function findResult(number) {
             case '9': part1 = 'nine'; break;              
             case '0': part1 = 'zero'; break;
             default: console.log('Not a number'); break;
-
         }
 
         return part3 + ' ' + 'and' + ' ' + part2 + ' ' + part1;

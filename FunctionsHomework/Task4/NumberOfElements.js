@@ -6,4 +6,5 @@ function findResult() {
     var count = document.getElementsByTagName('div').length;
     console.log('Number of <div> elements: ' + count);
 }
+
 findResult();

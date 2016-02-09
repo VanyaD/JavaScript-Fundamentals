@@ -6,37 +6,21 @@ function findResult(a, b, c) {
     
     if (a == 0 || b == 0 || c == 0) {
         return '0';
-    }
-
-    else if (a > 0 && b > 0 && c > 0) {
+    } else if (a > 0 && b > 0 && c > 0) {
         return '+';
-    }
-    
-    else if (a > 0 && b < 0 && c < 0) {
+    } else if (a > 0 && b < 0 && c < 0) {
         return '+';
-    }
-    
-    else if (a > 0 && b < 0 && c > 0) {
+    } else if (a > 0 && b < 0 && c > 0) {
         return '-';
-    }
-    
-    else if (a > 0 && b > 0 && c < 0) {
+    } else if (a > 0 && b > 0 && c < 0) {
         return '-';
-    }
-
-    else if (a < 0 && b > 0 && c > 0) {
+    } else if (a < 0 && b > 0 && c > 0) {
         return '-';
-    }
-    
-    else if (a < 0 && b < 0 && c > 0) {
+    } else if (a < 0 && b < 0 && c > 0) {
         return '+'
-    }
-
-    else if (a < 0 && b < 0 && c < 0) {
+    } else if (a < 0 && b < 0 && c < 0) {
         return '-';
-    }
-
-    else if (a < 0 && b > 0 && c < 0) {
+    } else if (a < 0 && b > 0 && c < 0) {
         return '+'
     }
 }

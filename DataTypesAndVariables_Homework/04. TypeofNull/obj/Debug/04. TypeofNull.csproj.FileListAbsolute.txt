@@ -4,3 +4,9 @@ C:\Users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homew
 C:\Users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\04. TypeofNull\obj\Debug\04. TypeofNull.csprojResolveAssemblyReference.cache
 C:\Users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\04. TypeofNull\obj\Debug\_04.TypeofNull.dll
 C:\Users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\04. TypeofNull\obj\Debug\_04.TypeofNull.pdb
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\04. TypeofNull\bin\_04.TypeofNull.dll.config
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\04. TypeofNull\bin\_04.TypeofNull.dll
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\04. TypeofNull\bin\_04.TypeofNull.pdb
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\04. TypeofNull\obj\Debug\04. TypeofNull.csprojResolveAssemblyReference.cache
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\04. TypeofNull\obj\Debug\_04.TypeofNull.dll
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\04. TypeofNull\obj\Debug\_04.TypeofNull.pdb

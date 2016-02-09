@@ -9,12 +9,15 @@ function findTheGreatest(a, b, c, d, e) {
     if (greatest < b) {
         greatest = b;      
     }
+
     if (greatest < c) {
         greatest = c;
     }
+
     if (greatest < d) {
         greatest = d
     }
+
     if (greatest < e) {
         greatest = e;
     }

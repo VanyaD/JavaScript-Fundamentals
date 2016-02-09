@@ -12,7 +12,7 @@ function printNumbers(n) {
 
     for (i = 1; i <= n; i += 1) {
         console.log(i);
-}
+    }
 }
 
 printNumbers(5);

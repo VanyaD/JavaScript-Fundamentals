@@ -4,6 +4,7 @@ function canFormTriangle(line1, line2, line3) {
         var distance = Math.sqrt(
             Math.abs(pointB.x - pointA.x) * Math.abs(pointB.x - pointA.x) +
             Math.abs(pointB.y - pointA.y) * Math.abs(pointB.y - pointA.y));
+
         console.log('Line length: ' + distance);
         return distance;
     }
@@ -17,8 +18,7 @@ function canFormTriangle(line1, line2, line3) {
 
     if (longestLength < ((length1 + length2 + length3) - longestLength)) {
         return console.log('A triangle can be formed -- > true');
-    }
-    else return console.log('A triangle cannot be formed');
+    } else return console.log('A triangle cannot be formed');
 }
 
 line1 = {pointA: {x: 5, y: 3}, pointB: {x: 1, y: 2}};

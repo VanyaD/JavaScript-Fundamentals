@@ -18,11 +18,14 @@ function findResult(arr) {
                 temp[1] += 1;
             }
         }
+
         if (result[1] < temp[1]) {
             result = temp;
         }
+
         temp[0] = arr[j + 1];
     }
+
     console.log('The most frequent number is: ', result[0]);
 }
 

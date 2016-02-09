@@ -15,7 +15,7 @@ var people = [person1, person2, person3, person4];
 
 var result = people.filter(function(item, index ){
     return item.age < 18;
-})
+});
 
 console.log('All people: ');
 console.log(people);
@@ -24,4 +24,4 @@ console.log('People younger than 18: ')
 
 result.forEach(function(item){
     console.log(item);
-})
+});

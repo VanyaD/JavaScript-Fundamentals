@@ -16,6 +16,7 @@ function findResult(num) {
     for (i = 0, len = str.length; i < len; i += 1) {
         result = result + str[len - i - 1];
     }
+
     console.log(num + ' --> ' + result);
 }
 
@@ -26,6 +27,7 @@ function anotherSolution(number) {
 
     console.log(number + ' --> ' + arr.join(''));
 }
+
 console.log('First solution:')
 findResult(254);
 findResult(123.45);

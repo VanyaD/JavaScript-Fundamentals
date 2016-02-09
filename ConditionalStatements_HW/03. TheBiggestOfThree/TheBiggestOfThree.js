@@ -4,19 +4,15 @@
 
 function findTheBiggest(a, b, c) {
     if (a > b) {
-        
         if (a > c) {
             return a;
-        }
-        else {
+        } else {
             return c;
         }        
-    }
-    else {
+    } else {
         if (b > c) {
             return b;
-        }
-        else {
+        } else {
             return c;
         }
     }

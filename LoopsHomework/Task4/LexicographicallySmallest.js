@@ -23,6 +23,7 @@ function findResult(object) {
     console.log('The smallest property: ', min);
     console.log('The largest property: ', max);
 }
+
 findResult(window);
 findResult(document);
 findResult(navigator);

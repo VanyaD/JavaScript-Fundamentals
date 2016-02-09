@@ -7,6 +7,7 @@ function reverseString(string) {
     for (i = 0, len = string.length; i < len; i += 1) {
         result += string[len - 1 - i];
     }
+
     return result;
 }
 

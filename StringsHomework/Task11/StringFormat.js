@@ -12,20 +12,24 @@ function stringFormat(args) {
             index += 1;
 
         }
+
         if (string.indexOf('}', index) === index) {
             inPlaceholder = false;
             index += 1;
         }
+
         if (inPlaceholder === true) {
             var temp = parseInt(string[index]) + 1;
             output = output + arguments[temp];
             index += 1;
         }
+
         if (inPlaceholder === false) {
             output = output + string[index];
             index += 1;
         }
     }
+
     return output;
 }
 

@@ -64,6 +64,7 @@ function solve(string) {
             index += 1;
         }
     }
+
     return console.log(output);
 }
 

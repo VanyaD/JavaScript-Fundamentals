@@ -4,3 +4,9 @@ c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homew
 c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\02. QuotedText\obj\Debug\02. QuotedText.csprojResolveAssemblyReference.cache
 c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\02. QuotedText\obj\Debug\_02.QuotedText.dll
 c:\users\vanya\documents\visual studio 2013\Projects\DataTypesAndVariables_Homework\02. QuotedText\obj\Debug\_02.QuotedText.pdb
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\02. QuotedText\bin\_02.QuotedText.dll.config
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\02. QuotedText\bin\_02.QuotedText.dll
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\02. QuotedText\bin\_02.QuotedText.pdb
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\02. QuotedText\obj\Debug\02. QuotedText.csprojResolveAssemblyReference.cache
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\02. QuotedText\obj\Debug\_02.QuotedText.dll
+C:\Users\vanya\Desktop\Git\JavaScript-Fundamentals\DataTypesAndVariables_Homework\02. QuotedText\obj\Debug\_02.QuotedText.pdb

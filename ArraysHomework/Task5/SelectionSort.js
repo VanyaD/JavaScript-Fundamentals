@@ -11,17 +11,20 @@
 function sortArray(array) {
     min = Number.MAX_VALUE;
     len = array.length;
+
     for (j = 0; j < len; j += 1) {
         for (i = 0; i < len; i += 1) {
             if (min > array[i]) {
                 min = array[i];
             }
         }
+
         resultArr[j] = min;
         var index = array.indexOf(min);
         delete array[index];
         min = Number.MAX_VALUE;
     }
+
     console.log(resultArr);
 }
 

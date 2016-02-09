@@ -21,6 +21,7 @@ function solve(string) {
                 break;
             }
         }
+
         if (isPalindrome === true) {
             console.log(word);
         }

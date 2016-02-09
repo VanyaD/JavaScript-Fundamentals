@@ -2,7 +2,7 @@
 function calcAverage(people) {
     var women = people.filter(function (item, index) {
         return item.gender === 'female';
-    })
+    });
 
     var count = 0;
     var sum = women.reduce(function (sum, item) {

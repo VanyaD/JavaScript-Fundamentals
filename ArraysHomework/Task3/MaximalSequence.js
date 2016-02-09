@@ -18,11 +18,11 @@ function findMaxSequence(arr) {
             if (temp[1] > result[1]) {
                 result = temp;
             }
-        }
-        else {
+        } else {
             temp = [arr[i], 1];
         }
     }
+
     console.log('The maximal sequence of equal elements is: ');
 
     for (i = 0; i < result[1]; i += 1) {

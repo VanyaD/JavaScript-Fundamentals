@@ -16,7 +16,7 @@ console.log(people);
 
 var result = people.every(function(people){
     return people.age >= 18;
-})
+});
 
 console.log('-------------------------------------------------------');
 console.log('All people in the array are older than or 18 years old: ' + result);

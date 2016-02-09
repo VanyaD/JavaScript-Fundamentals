@@ -20,6 +20,7 @@ function findResult(input, searchedWord, caseInsensitive) {
             inputStr = inputStr.replace(inputStr[i], '');
         }
     }
+
     word = searchedWord.toString();
     arr = inputStr.split([' ']);
 
@@ -28,6 +29,7 @@ function findResult(input, searchedWord, caseInsensitive) {
             count += 1;
         }
     }
+
     console.log('Text: ' + input);
     console.log('Searched word: ' + word);
     console.log('Occurrences: ' + count);

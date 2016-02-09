@@ -2,7 +2,6 @@
  * Created by vanya on 6/2/2015.
  */
 
-
 function findResult(num) {
     var str = num.toString();
 
@@ -19,7 +18,6 @@ function findResult(num) {
         case '9': return str + ' --> last digit = nine'; break;
         default: return 'not a number';
     }
-
 }
 
 console.log(findResult(5111));

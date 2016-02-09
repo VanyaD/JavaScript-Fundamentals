@@ -14,6 +14,7 @@ function generateList(people, template) {
         indexArray += 1;
         indexTemplateStr = 0;
     }
+
     return '<ul><li>' + output + '</ul>';
 }
 

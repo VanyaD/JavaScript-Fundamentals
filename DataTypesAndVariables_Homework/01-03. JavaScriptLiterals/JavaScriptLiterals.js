@@ -3,8 +3,6 @@
 
 // Problem 3. Typeof variables
 // Try typeof on all variables you created.
-
-
 // integer literals - in decimal, hexadeciaml, octal and binary format
 
 var decimal1 = 5;
@@ -22,7 +20,6 @@ console.log('typeof', '-052(oct): ', typeof octal2);
 console.log('typeof', '0xCC12(hex): ', typeof hex1);
 console.log('typeof', '-0x256B(hex): ', typeof hex2);
 console.log('typeof', '01010001(bin): ', typeof hex2);
-
 
 // floating-point literals
 
@@ -61,8 +58,6 @@ console.log('typeof', "How're you?: ", typeof example5);
 var person = { firstName: "Gosho", lastName: "Ivanov", age: 15 };
 
 console.log('typeof', 'var person = { firstName: "Gosho", lastName: "Ivanov", age: 15 }: ', typeof person);
-
-// array literals - all with four elements
 
 var myArray1 = [1, 2, 3, 4];
 var myArray2 = [1, , , 4];
